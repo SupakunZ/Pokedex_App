@@ -30,7 +30,7 @@ https://github.com/SupakunZ/Pokedex_App/assets/168329218/5e0092b1-a8c9-4b59-bb46
 1. Clone this repository :
 
 ```bash
-git clone https://github.com/SupakunZ/Tesla_Clone.git
+git clone https://github.com/SupakunZ/Pokedex_App.git
 ```
 
 2. Navigate to the project folder and install dependencies :

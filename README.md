@@ -1,10 +1,10 @@
 # Pokedex App
-Tesla Website Clone created with ReactJs,React-router and Bootstrap CSS.
+Pokédex is a web application that can be used to find information and learn about Pokémon. It tells about the stats and abilities of the Pokémon's various species. This application uses data from [PokeAPI](https://pokeapi.co/), which is a complete and reliable Pokémon API. To provide a good experience for Pokemon lovers and general users.
 
 https://github.com/SupakunZ/Pokedex_App/assets/168329218/5e0092b1-a8c9-4b59-bb46-9684acd87cea
 
 ## 🚗 Live Demo 
-<a href='https://google.co.th/' target="_blank">Tesla-Clone</a>
+<a href='https://google.co.th/' target="_blank">Pokedex_App</a>
 
 ## 🚦 Features
 

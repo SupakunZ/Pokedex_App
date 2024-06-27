@@ -3,10 +3,10 @@ Pokédex is a web application that can be used to find information and learn abo
 
 https://github.com/SupakunZ/Pokedex_App/assets/168329218/5e0092b1-a8c9-4b59-bb46-9684acd87cea
 
-## 🚗 Live Demo 
+## ⚡ Live Demo 
 <a href='https://google.co.th/' target="_blank">Pokedex_App</a>
 
-## 🚦 Features
+## 🦄 Features
 
   <ul>
       <li>Active navbar similar to original</li>
@@ -14,7 +14,7 @@ https://github.com/SupakunZ/Pokedex_App/assets/168329218/5e0092b1-a8c9-4b59-bb46
       <li>Responsive with all devices</li>
   </ul>
 
-## 🧭 Technologyies Used
+## 🐣 Technologyies Used
   
   <ul>
       <li>ReactJS</li>
@@ -23,7 +23,7 @@ https://github.com/SupakunZ/Pokedex_App/assets/168329218/5e0092b1-a8c9-4b59-bb46
   </ul>
 
 
-## 🚧 Installation
+## 📢 Installation
 
 1. Clone this repository :
 

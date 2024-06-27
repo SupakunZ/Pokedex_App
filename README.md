@@ -9,8 +9,8 @@ https://github.com/SupakunZ/Pokedex_App/assets/168329218/5e0092b1-a8c9-4b59-bb46
 ## 🦄 Features
 
   <ul>
-      <li>Active navbar similar to original</li>
-      <li>Smooth scrolling like original</li>
+      <li>Choose to display each generation of Pokémon</li>
+      <li>Either search by their name or numbe</li>
       <li>Responsive with all devices</li>
   </ul>
 
@@ -18,8 +18,10 @@ https://github.com/SupakunZ/Pokedex_App/assets/168329218/5e0092b1-a8c9-4b59-bb46
   
   <ul>
       <li>ReactJS</li>
-      <li>Bootstrap CSS</li>
+      <li>Tailwind CSS</li>
       <li>React Router</li>
+      <li>Zustand</li>
+      <li>Axios</li>
   </ul>
 
 

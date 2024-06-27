@@ -1,7 +1,7 @@
 # Pokedex App
 Tesla Website Clone created with ReactJs,React-router and Bootstrap CSS.
 
-https://github.com/SupakunZ/Tesla_Clone/assets/168329218/8c07fab0-55fc-475d-9aaa-5d163b122637
+https://github.com/SupakunZ/Pokedex_App/assets/168329218/5e0092b1-a8c9-4b59-bb46-9684acd87cea
 
 ## 🚗 Live Demo 
 <a href='https://google.co.th/' target="_blank">Tesla-Clone</a>
@@ -34,7 +34,7 @@ git clone https://github.com/SupakunZ/Tesla_Clone.git
 2. Navigate to the project folder and install dependencies :
 
 ```
-cd Tesla_Clone
+cd Pokedex_App
 npm install
 ```
 
